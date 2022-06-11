@@ -1,0 +1,1 @@
+export interface ICallBackFunctions<T = any> { [key: string]: T; }

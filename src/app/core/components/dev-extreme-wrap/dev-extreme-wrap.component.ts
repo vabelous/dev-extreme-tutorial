@@ -27,7 +27,7 @@ import {
 import { ICallBackFunctions } from '@app-core/interfaces/core.models';
 
 @Component({
-  selector: 'pmc-dev-extreme-wrap',
+  selector: 'app-dev-extreme-wrap',
   templateUrl: './dev-extreme-wrap.component.html',
   styleUrls: ['./dev-extreme-wrap.component.scss'],
   changeDetection: ChangeDetectionStrategy.OnPush,
